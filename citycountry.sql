@@ -19,6 +19,12 @@
 -- Table structure for table `city`
 --
 
+DROP DATABASE IF EXISTS module_exam_last_year;
+
+CREATE DATABASE IF NOT EXISTS module_exam_last_year;
+
+USE module_exam_last_year;
+
 DROP TABLE IF EXISTS `city`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
