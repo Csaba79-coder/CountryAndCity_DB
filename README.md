@@ -32,7 +32,7 @@ Second tasks:
 3.	Hány brazil megyét (district) tartunk nyilván?
 4.	Hány országban beszél egy nyelvet a lakosság legalább 99%-a?
 5.	Adj meg egy populáció szerinti bontást régiókra! (Első oszlop: régió neve, második oszlop: populáció aránya a teljes populációban)
-6.	Készíts egy olyan két oszlopos lekérdezést, ahol az első oszlop az ország neve, a második oszlop pedig a “kevés” stringet tartalmazza, ha az ország lakossága 10 milliónál kisebb, és a “sok” stringet tartalmazza, ha 10 millió vagy afölötti. (Tipp: https://dev.mysql.com/doc/refman/5.7/en/control-flow-functions.html#function_if)
+6.	Készíts egy olyan két oszlopos lekérdezést, ahol az első oszlop az ország neve, a második oszlop pedig a “kevés” stringet tartalmazza, ha az ország lakossága 10 milliónál kisebb, és a “sok” stringet tartalmazza, ha 10 millió vagy afölötti. (Tipp: https://dev.mysql.com/doc/refman/5.7/en/control-flow-functions.html#function_if) a jó link: jó link: https://dev.mysql.com/doc/refman/5.7/en/flow-control-functions.html
 7.	Mi a fővárosa a legsűrűbben lakott országnak? (Lakosság per terület.)
 8.	Listázd ki az országokat és a fővárosukat! (Első oszlop: ország neve, második oszlop: főváros neve.)
 9.	Listázd ki azokat a városokat ABC-rendben, ahol a hivatalos nyelv a spanyol!
